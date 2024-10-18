@@ -12,3 +12,4 @@ C:\Users\haroon.irfan\Documents\programering 1\Store\Store\obj\Debug\net8.0\refi
 C:\Users\haroon.irfan\Documents\programering 1\Store\Store\obj\Debug\net8.0\Store.pdb
 C:\Users\haroon.irfan\Documents\programering 1\Store\Store\obj\Debug\net8.0\Store.genruntimeconfig.cache
 C:\Users\haroon.irfan\Documents\programering 1\Store\Store\obj\Debug\net8.0\ref\Store.dll
+C:\Users\haroon.irfan\Documents\programering 1\Store\Store\obj\Debug\net8.0\Store.sourcelink.json
