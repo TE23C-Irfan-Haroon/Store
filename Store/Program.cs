@@ -88,19 +88,22 @@ while (coins > 0)
         else
         {
             Console.WriteLine("Not enough coins.");
+            Console.ReadLine();
         }
     }
     else if (shopChoicenum == 4)
     {
-
         break;
     }
-    else if (coins <= 0)
+    
+    if (coins <= 0)
     {
         Console.WriteLine("You have no coins left");
         Console.ReadLine();
+        return;
     }
-    shopChoice = Console.ReadLine();
+    
     Console.Clear();
 }
 
+Console.ReadLine();
